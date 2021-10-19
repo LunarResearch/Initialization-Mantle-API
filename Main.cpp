@@ -13,7 +13,7 @@ int APIENTRY tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PTCHAR lpCmd
 	UNREFERENCED_PARAMETER(hPrevInstance);
 	UNREFERENCED_PARAMETER(lpCmdLine);
 
-	// TODO: Разместите код здесь.
+	// TODO
 	grApi gr;
 
 	UpdateWindow(gr.hWnd);
